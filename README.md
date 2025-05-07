@@ -12,7 +12,7 @@ An OSINT tool for performing anonymous dork-based queries via **Tor**, using **S
 ## ⚙️ Requirements
 
 - Python 3.8 or newer
-- Tor running on port 9050 (e.g., `sudo systemctl tor start`)
+- Tor running on port 9050 (e.g., `sudo systemctl start tor`)
 - Linux/WSL/macOS (recommended)
 
 ---
@@ -21,7 +21,7 @@ An OSINT tool for performing anonymous dork-based queries via **Tor**, using **S
 
 ### 1. Clone the repository
 
-git clone https://github.com/multi_dork_tor.py/tor-dork-search.git
+git clone https://github.com/Profanatic/multi_dork_tor.py
 
 cd multi_dork_tor.py
 
