@@ -1,11 +1,11 @@
 # multi_dork_tor.py
 OSINT tool for performing anonymous dork-based queries via **Tor**, using **Startpage** or **Yandex** as the search engine.
 
-# Tor Dork Search
+# MULTI_DORK_TOR 
 
-An OSINT tool for performing anonymous dork-based queries via **Tor**, using **Startpage** or **Yandex** as the search engine.
+An OSINT tool enabling anonymous dork searches over Tor with Startpage or Yandex support.
 
-> 🛡️ Designed for cybersecurity researchers and analysts focused on privacy-preserving reconnaissance.
+> 🛡️ Designed for cybersecurity researchers and osint analysts focused on privacy-preserving reconnaissance.
 
 ---
 
